@@ -1,6 +1,6 @@
 let wagePerHour = 20
 let hour = Math.floor(Math.random() * 10) + 1
-let employee = Math.random()
+
 if (employee < 0.5){
     console.log("Employee is absent!")
 }
